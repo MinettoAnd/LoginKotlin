@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Feliz Cumpleaños DSM!</string>
+    <string name="signature_text">De Marcelo y Anderson</string>
+    <style name="Theme.HappyBirthday" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
